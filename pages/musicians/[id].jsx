@@ -19,7 +19,6 @@ export default function Musician() {
                     <div className={styles.socials}>
                         <div className={styles.social}>
                             <AiFillInstagram />
-                            
                         </div>
                         <div className={styles.social}>
                             <AiOutlineTwitter />
