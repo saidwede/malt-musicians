@@ -20,7 +20,7 @@ export default function Barner() {
                 </div>
             </div>
             <div className='right'>
-                <img src="/img/barner-musician.jpg" alt="" />
+                <img src="/img/barner-musician.png" alt="" />
             </div>
         </div>
       </>
