@@ -8,11 +8,11 @@ export default function Musician() {
       <div className='row'>
         <div className={styles.card}>
             <div className=''>
-                <img className={styles.barner_img} src="/img/music-barner.jpg" alt="" />
+                <img className={styles.barner_img} src="/img/music-barner.png" alt="" />
             </div>
             <div className='row'>
                 <div className='col-12 col-xl-3 left-profile'>
-                    <img className={styles.profile_pic} src="/img/profile2.jpg" alt="" />
+                    <img className={styles.profile_pic} src="/img/profile2.png" alt="" />
                     <div className={styles.instrument}>Pianist</div>
                     <div className={styles.name}>FirstName LastName</div>
                     <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
