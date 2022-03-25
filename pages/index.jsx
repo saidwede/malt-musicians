@@ -12,35 +12,35 @@ export default function Home() {
           <ProfileCard
             name = "First Name Last Name"
             instrument = "Piano"
-            photo = "/img/profile2.jpg"
+            photo = "/img/profile2.png"
             rate = {5} 
             link = "musicians/profile-name" 
           ></ProfileCard>
           <ProfileCard
             name = "First Name Last Name"
             instrument = "Guitar"
-            photo = "/img/profile3.jpg"
+            photo = "/img/profile3.png"
             rate = {4} 
             link = "musicians/profile-name" 
           ></ProfileCard>
           <ProfileCard
             name = "First Name Last Name"
             instrument = "Piano"
-            photo = "/img/profile1.jpg"
+            photo = "/img/profile1.png"
             rate = {4.5} 
             link = "musicians/profile-name" 
           ></ProfileCard>
           <ProfileCard
             name = "First Name Last Name"
             instrument = "Guitar"
-            photo = "/img/profile4.jpg"
+            photo = "/img/profile4.png"
             rate = {5}  
             link = "musicians/profile-name" 
           ></ProfileCard>
           <ProfileCard
             name = "First Name Last Name"
             instrument = "Piano"
-            photo = "/img/profile5.jpg"
+            photo = "/img/profile5.png"
             rate = {4}  
             link = "musicians/profile-name" 
           ></ProfileCard>
